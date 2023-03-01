@@ -30,11 +30,11 @@
             android:text="SAVE"/>
 
         <Button
-            android:id="@+id/Load"
+            android:id="@+id/btnLoad"
             android:layout_height="wrap_content"
             android:layout_width="wrap_content"
             android:layout_weight="1"
-            android:text="Load"/>
+            android:text="LOAD"/>
 
         />
 
